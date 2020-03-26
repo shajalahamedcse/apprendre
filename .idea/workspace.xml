@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="685eb18f-17e8-418e-8ba4-b439004eb80a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aws_vpc/nat.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.terraform.tfstate.lock.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws_vpc/subnets.tf" beforeDir="false" afterPath="$PROJECT_DIR$/aws_vpc/subnets.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aws_vpc/varibales.tf" beforeDir="false" afterPath="$PROJECT_DIR$/aws_vpc/varibales.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/terraform.tfstate.backup" beforeDir="false" afterPath="$PROJECT_DIR$/terraform.tfstate.backup" afterDir="false" />
