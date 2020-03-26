@@ -36,3 +36,11 @@ variable "private_cidrs" {
 variable "nat_gateway_name" {
   type = string
 }
+
+variable "public_route_table_name" {
+  type = string
+}
+
+variable "private_route_table_name" {
+  type = string
+}
