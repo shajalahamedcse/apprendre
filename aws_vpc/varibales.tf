@@ -44,3 +44,7 @@ variable "public_route_table_name" {
 variable "private_route_table_name" {
   type = string
 }
+
+//variable "security_group" {
+//  type = string
+//}
