@@ -14,3 +14,12 @@ variable "internet_gateway_name" {
   description = "Internet Gateway Name"
 
 }
+
+variable "public_subnet_name_prefix" {
+  type = string
+  description = "Public Subnet Name prefix for subnet naming"
+}
+
+variable "public_cidrs" {
+  type = list(string)
+}
