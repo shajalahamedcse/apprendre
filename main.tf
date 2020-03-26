@@ -9,4 +9,5 @@ module "vpc_networking" {
   internet_gateway_name = "hello-igw"
   public_cidrs    = ["10.0.1.0/24", "10.0.2.0/24"]
   public_subnet_name_prefix = "hello-public"
+  nat_gateway_name = "hello-nat"
 }

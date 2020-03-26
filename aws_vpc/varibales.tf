@@ -23,3 +23,7 @@ variable "public_subnet_name_prefix" {
 variable "public_cidrs" {
   type = list(string)
 }
+
+variable "nat_gateway_name" {
+  type = string
+}
